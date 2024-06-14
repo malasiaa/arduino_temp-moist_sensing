@@ -1,0 +1,10 @@
+2024-06-13 23:47:37 - Moisture value: 1023 Temp value: 24.00 C;
+2024-06-13 23:47:39 - Moisture value: 1023 Temp value: 24.00 C;
+2024-06-13 23:47:42 - Moisture value: 1022 Temp value: 24.06 C;
+2024-06-13 23:47:44 - Moisture value: 1022 Temp value: 24.00 C;
+2024-06-13 23:47:47 - Moisture value: 1023 Temp value: 24.06 C;
+2024-06-13 23:47:49 - Moisture value: 1022 Temp value: 24.06 C;
+2024-06-13 23:47:52 - Moisture value: 1021 Temp value: 24.00 C;
+2024-06-13 23:47:54 - Moisture value: 1022 Temp value: 24.06 C;
+2024-06-13 23:47:57 - Moisture value: 1021 Temp value: 24.06 C;
+2024-06-13 23:47:59 - Moisture value: 1022 Temp value: 24.06 C;
