@@ -9,9 +9,11 @@ It was built to be energy-efficient and relatively scalable.
 
 ## Overview
 
-The Arduino board reads data from a moisture sensor connected to analog pin A2 and a DS18B20 temperature sensor connected to digital pin 2. It logs this data periodically and controls an LED connected to digital pin 7 based on the moisture level.
+The Arduino board reads data from a moisture sensor connected to analog pin A2 and a DS18B20 temperature sensor connected to digital pin 2. It logs this data periodically and controls an LED connected to digital pin 7 based on the moisture level. 
 
-A Python script (import_serial.py) is used to log data received from the Arduino over serial communication. This script saves the data to a text file (serial_log_XXXXX.txt) in project directory for further analysis.
+A Python script (import_serial.py) is used to log data received from the Arduino over serial communication. This script saves the data to a text file (serial_log_XXXXX.txt) in the project directory for further analysis.
+
+The sketch was done on VS Code IDE with PlatformIO extension, with the config file [platformio.ini](https://github.com/malasiaa/arduino_temp-moist_sensing/blob/main/platformio.ini).
 
 #### Components Used:
 
