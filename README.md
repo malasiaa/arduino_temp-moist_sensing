@@ -53,8 +53,15 @@ The sketch was done on VS Code IDE with PlatformIO extension, with the config fi
    pip install -r requirements.txt
    ```
 
-4. **Run the script:**
-  Assuming you have done everything before, and you have the board plug to your computer.
+4. **Upload main.cpp to the Arduino Uno:**
+
+- Open the Arduino IDE, or PlatformIO.
+- Select the main.cpp file from the cloned repository.
+- Connect your Arduino Uno board to your computer.
+- Select the appropriate board and port under Tools > Board and Tools > Port, or if using PlatformIO, upload the config.ini file.
+- Upload the code to the board.
+
+5. **Run the script:**
    ```bash
    python import_serial.py
    ```
