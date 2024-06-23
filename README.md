@@ -57,7 +57,7 @@ The sketch was done on VS Code IDE with PlatformIO extension, with the config fi
 
 - Open the Arduino IDE, or PlatformIO.
 - Select the main.cpp file from the cloned repository.
-- Connect your Arduino Uno board to your computer.
+- Connect the Arduino Uno board to your computer.
 - Select the appropriate board and port under Tools > Board and Tools > Port, or if using PlatformIO, upload the config.ini file.
 - Upload the code to the board.
 
